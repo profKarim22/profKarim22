@@ -160,9 +160,9 @@ Flutter & Mobile Development
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=profKarim22&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=profKarim22&show_icons=true&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profKarim22&layout=compact&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=profKarim22&layout=compact&hide_border=true&langs_count=8" />
 
 </div>
 
